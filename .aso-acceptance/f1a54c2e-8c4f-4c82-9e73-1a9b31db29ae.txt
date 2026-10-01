@@ -1,0 +1,3 @@
+ASO E29-01 disposable GitHub acceptance
+run_id=f1a54c2e-8c4f-4c82-9e73-1a9b31db29ae
+protected_merge=not_exercised
